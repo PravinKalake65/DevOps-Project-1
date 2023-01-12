@@ -66,7 +66,7 @@ For Linux/MacOS/Git Bash
 ```
 - Once the server is hosted, head over to http://127.0.0.1:8000/todos to check the app is running.
 
-![](https://github.com/imran1509/DevOps-Project-1/blob/main/Screenshots/2.png)
+![](https://github.com/imran1509/DevOps-Project-1/blob/main/Screenshots/2.PNG)
 
 ## step 2 : Create requirement file
 We will create a requirement file using the following command. It will add all the changes or dependencies we had to install because of error in this file and it will help us in Docker part.
